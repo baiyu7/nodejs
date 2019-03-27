@@ -1,0 +1,2 @@
+# nodejs
+该项目基于nodejs及express框架进行编写，主要是为了服务我的vue项目所写的简单接口
